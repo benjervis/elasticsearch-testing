@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "1",
+    "short_hand": "3PU",
+    "expanded_form": "Third party up-loader or Third Party Partner.",
+    "description": "A company that uploads multiple jobs to our website, and manages applications on behalf of multiple clients. Charlotte Montague & Lee Whitaker manage our relationships with our Partners. See Partners for more information"
+  },
+  {
+    "id": "3",
+    "short_hand": "AD Registrations",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. The number of advertiser registrations in a given reporting timeframe."
+  },
+  {
+    "id": "4",
+    "short_hand": "AdAPI",
+    "expanded_form": null,
+    "description": "AdAPI was a project in 2012 to support the API requirements of the Pacman (Position And Candidate Management) project."
+  },
+  {
+    "id": "5",
+    "short_hand": "AdLoader",
+    "expanded_form": null,
+    "description": "Refer to 3PU"
+  },
+  {
+    "id": "6",
+    "short_hand": "Advertiser (HIRER)",
+    "expanded_form": null,
+    "description": "The term advertiser (when used as an all encompassing term to include 3PUs, Agents, Recruiters and standard advertisers was replaced in 2013 by the term Hirers) There are 3 types of Hirers : SME  - casual hirers that purchase job ad packs Recruiter -  they have contracts & ad packs and have 6 months to use these ads (this is the same for Job Ad Packs). Corporate -  corporate hirers buy a block of ads e.g. 50 Ads/month and are charged an Over-Ad rate if they use more than they have purchased."
+  },
+  {
+    "id": "7",
+    "short_hand": "AE",
+    "expanded_form": "Account Executive",
+    "description": "A type of Sales Rep that manages large volume customers. Phone based Sales account managers in the Melbourne office"
+  },
+  {
+    "id": "8",
+    "short_hand": "Agents",
+    "expanded_form": null,
+    "description": "Companies that work on behalf of multiple clients; they are media buyers. They login with their agent id which shows the list of clients they represent and this enables them to login as that client and create a job ad. They can also use Fastlane or Fastlane Plus to upload multiple job ads."
+  },
+  {
+    "id": "9",
+    "short_hand": "AJAX",
+    "expanded_form": "Asynchronous JavaScript and XML. ",
+    "description": "Rich media technology for dynamically changing content on web pages based on user action, page action, etc."
+  },
+  {
+    "id": "10",
+    "short_hand": "Alliances",
+    "expanded_form": null,
+    "description": "A site setup for companies that pay for the privilege of having their own customised top bar.  These are controlled by cookies and are arranged through the UI Dev Team."
+  },
+  {
+    "id": "11",
+    "short_hand": "AMI",
+    "expanded_form": "Amazon Machine Image",
+    "description": "A special type of virtual appliance that is used to create a virtual machine within the Amazon Elastic Compute Cloud (EC2). It serves as the basic unit of deployment for services delivered using EC2."
+  },
+  {
+    "id": "12",
+    "short_hand": "AngularJS",
+    "expanded_form": null,
+    "description": "The AngularJS website describes it as what HTML would have been, had it been designed for building web-apps. It is an open-source JavaScript framework. According to Wikipedia, its goal is to augment browser-based applications with MVC capability and reduce the amount of JavaScript needed to make web applications functional."
+  },
+  {
+    "id": "13",
+    "short_hand": "Application Queue Service",
+    "expanded_form": null,
+    "description": "A windows service that processes items in the queue application table. The QueueApplication table contains references to each new job application that requires processing through @ShortCut or Native job application process."
+  },
+  {
+    "id": "14",
+    "short_hand": "Application Starts",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. The number of 'apply now' clicks for both LinkOut and non-LinkOut ads."
+  },
+  {
+    "id": "15",
+    "short_hand": "Applications Completed (NON LINK OUT)",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. The number of completed job seeker applications for non-LinkOut scenarios only."
+  },
+  {
+    "id": "16",
+    "short_hand": "AQTF",
+    "expanded_form": "The Australian Quality Training Framework ",
+    "description": "Is the national set of standards which assures nationally consistent, high-quality training and assessment services for the clients of Australia’s vocational education and training system. The revised version of the AQTF is effective from 1 July 2010' http://www.training.com.au/Pages/menuitem91cdbaeb7a2bc0e2cd9ae78617a62dbc.aspx"
+  },
+  {
+    "id": "17",
+    "short_hand": "ASP",
+    "expanded_form": "Active Server Pages",
+    "description": "Old Microsoft web site development technology - you should view with apprehension anyone who still professes to use this, and outright suspicion if they actually like it."
+  },
+  {
+    "id": "18",
+    "short_hand": "ASP.NET MVC",
+    "expanded_form": null,
+    "description": "A more modern replacement to WebForms, providing a lighter weight approach to web development."
+  },
+  {
+    "id": "19",
+    "short_hand": "ASP.NET WebForms",
+    "expanded_form": null,
+    "description": "Microsoft's answer to replacing ASP, still widely used but again seen more as an anachronistic approach to web development"
+  },
+  {
+    "id": "20",
+    "short_hand": "ASU",
+    "expanded_form": "Advertiser Site Upgrade project",
+    "description": "For more information see ASU Phase 1 Jive page."
+  },
+  {
+    "id": "21",
+    "short_hand": "ATS",
+    "expanded_form": "Applicant Tracking System",
+    "description": "An Applicant Tracking System (or ATS) is an external system used by Advertisers to manage Job Applications. See also Applicant Tracking System (ATS)"
+  },
+  {
+    "id": "22",
+    "short_hand": "Attack Surface",
+    "expanded_form": null,
+    "description": "The attack surface of a software environment is the sum of the different points (the 'attack vectors') where an unauthorized user (the 'attacker') can try to enter data to or extract data from an environment."
+  },
+  {
+    "id": "23",
+    "short_hand": "Average Page Duration (also Time spent on page)",
+    "expanded_form": null,
+    "description": "A Nielsen/NetRatings site metrics term. The Omniture term is Time spent on page.The average time all pages (except for the final page in a session) were viewed on the browser screen for a selected period. This metric is calculated by dividing the total duration of Page Impressions that are less than 30 minutes by the number of Page Impressions. Note: If a page impression lasts 30 minutes or greater it is assumed that the page is no longer being viewed. This is removed from the total duration as it may distort the data.  The time spent on the final page of every visit is not capturable by Nielsen. True time is calculated by the Hitwise Average Visit Time reports."
+  },
+  {
+    "id": "24",
+    "short_hand": "Average Session Duration (also Average time on site)",
+    "expanded_form": null,
+    "description": "A Nielsen/NetRatings site metrics term. The Omniture term is Average time on site. This shows the average length of a User Session (up to, but not including the final page viewed). This is calculated by dividing the total of the Page Durations by the total number of User Sessions. The time spent on the final page of every visit is not capturable by Nielsen. True time is calculated by the Hitwise Average Visit Time reports."
+  },
+  {
+    "id": "25",
+    "short_hand": "Average time on site (also Average Session Duration)",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. The Nielsen/NetRatings term is Average Session Duration. This shows the average length of a User Visit (up to, but not including the final page viewed). Also known as visit length. The time spent on the final page of every visit is not capturable by Omniture. True time is calculated by the Hitwise Average Visit Time reports."
+  },
+  {
+    "id": "26",
+    "short_hand": "Average Visit Time",
+    "expanded_form": null,
+    "description": "A Hitwise site metrics term. The elapsed time from the first to the last page request that constitutes a visit, adding the average time per page for such a visit. Includes time spent on final page of visit and hence more accurate than Nielsen//NetRatings Market Intelligence"
+  },
+  {
+    "id": "27",
+    "short_hand": "AWS",
+    "expanded_form": "Amazon Web Services",
+    "description": "A subsidiary of Amazon that provides on-demand cloud computing platforms to individuals, companies and governments, on a paid subscription basis"
+  },
+  {
+    "id": "28",
+    "short_hand": "BA",
+    "expanded_form": "Banner Ads",
+    "description": "See the Employer Branding / Display Advertising Collateral Jive page. Also Business Analyst"
+  },
+  {
+    "id": "128",
+    "short_hand": "Job Application Data",
+    "expanded_form": null,
+    "description": "The initial response to the initial request (after Authentication) in the SEEK Application Export process returns the Job Application Data. This includes Contact Details, reference data about the Job Application and URI’s to any attachments."
+  },
+  {
+    "id": "29",
+    "short_hand": "Badword Scanner",
+    "expanded_form": null,
+    "description": "The badword scanner is a service that runs approximately every 15 minutes on the SEEK website as part of SEEK's @Compliance process. It scans all live ads for offensive words; adult industry phrases; known fraudulent email addresses; known fraudulent phrases and known fraudulent advertiser names. If an ad is found to be non-compliant it is removed from the site and sent to the Non-compliant holdings queue - for more information see Compliance and Complaints"
+  },
+  {
+    "id": "30",
+    "short_hand": "BI",
+    "expanded_form": "Bulk Imports",
+    "description": "See Fastlane Plus Project (Bulk Imports) Jive page Also Business Intelligence"
+  },
+  {
+    "id": "31",
+    "short_hand": "Bigtrak",
+    "expanded_form": null,
+    "description": "Bigtrak is the name for the automation tool used by the IT QA department at SEEK in 2012"
+  },
+  {
+    "id": "32",
+    "short_hand": "BIL",
+    "expanded_form": null,
+    "description": "BIL was a project in involving the upgrade to BizTalk 2010."
+  },
+  {
+    "id": "33",
+    "short_hand": "Billing",
+    "expanded_form": null,
+    "description": "Generically used to describe Customer interactions relating to payments  E.g. Casual customers vs Subscription customers vs Pack customers. See Finance Operations for more info."
+  },
+  {
+    "id": "34",
+    "short_hand": "Biztalk",
+    "expanded_form": null,
+    "description": "Biztalk sits between Online and SAP and transfers messages between them, as Online and SAP cannot directly talk to each other. For more information see Troubleshooting BizTalk"
+  },
+  {
+    "id": "35",
+    "short_hand": "BOB",
+    "expanded_form": null,
+    "description": "A Developer project team from 2010"
+  },
+  {
+    "id": "36",
+    "short_hand": "BOLT",
+    "expanded_form": null,
+    "description": "The BOLT project from 2012 had the aim to create better Jobseeker profile data for advertisers. It was the second Agile pilot project. BOLT R4 was deployed Feb 2012 and included adding additional fields (P1 data fields, such as current role and company) in the application form."
+  },
+  {
+    "id": "37",
+    "short_hand": "BOOST",
+    "expanded_form": "Back Office Operations and Systems Transformation",
+    "description": "(SAP Implementation Project 2007). For more information see the BOOST file repository"
+  },
+  {
+    "id": "38",
+    "short_hand": "BOSS",
+    "expanded_form": "Better Online Self Service",
+    "description": "Better online self service project which was aimed at improving the advertiser center."
+  },
+  {
+    "id": "39",
+    "short_hand": "Bounce Rate",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term that shows the percentage of visits where the visitor enters and exits at the same page without visiting any other pages on the site in between. (i.e. % of Visits which are single page visits)"
+  },
+  {
+    "id": "40",
+    "short_hand": "BP",
+    "expanded_form": "Business Partner",
+    "description": "Business Partner - See CRM - Create a BP hierarchy Jive page"
+  },
+  {
+    "id": "41",
+    "short_hand": "Bulk Imports",
+    "expanded_form": null,
+    "description": "Also known as BI, Fastlane, or Fastlane Plus; a method used for uploading multiple ads without using CAJA. See  Fastlane Plus Project (Bulk Imports) for more information."
+  },
+  {
+    "id": "42",
+    "short_hand": "BW",
+    "expanded_form": "Business Warehouse",
+    "description": "Converts SAP data into a flexible reporting solution"
+  },
+  {
+    "id": "43",
+    "short_hand": "C Sharpers",
+    "expanded_form": null,
+    "description": "Developer project team from 2010"
+  },
+  {
+    "id": "44",
+    "short_hand": "C#",
+    "expanded_form": null,
+    "description": "Microsoft's flagship programming language and what we predominately use at SEEK – whilst it was looked down upon as a Java wannabe it has now surpassed Java in many ways."
+  },
+  {
+    "id": "45",
+    "short_hand": "CAF",
+    "expanded_form": "Custom Application Form",
+    "description": "Used by the advertiser in ScreenCAF CAF "
+  },
+  {
+    "id": "46",
+    "short_hand": "CAJA",
+    "expanded_form": "Create a Job Ad",
+    "description": "Often used for anything to do with the job ad creation process. For more information, see Create a casual job ad Jive page. See also Express CAJA definition."
+  },
+  {
+    "id": "47",
+    "short_hand": "Calling Out Contract",
+    "expanded_form": null,
+    "description": "The method used by SAP when a job ad is posted, to decrement this job from an ad pack or subscription, (or to charge for a casual ad if there is no current ad pack or subscription)"
+  },
+  {
+    "id": "48",
+    "short_hand": "Candidate Management",
+    "expanded_form": null,
+    "description": "Advertiser centre tools for allowing advertisers to contact and reject applicants and also forward application details to colleagues [mainly ASP code]"
+  },
+  {
+    "id": "49",
+    "short_hand": "CASBA",
+    "expanded_form": "Create a SEEK Business Ad",
+    "description": "Create A SEEK Business Ad. This SEEK Commercial project is designed to allow businesses to list their ad automatically, in a similar manner to CAJA."
+  },
+  {
+    "id": "50",
+    "short_hand": "Channel",
+    "expanded_form": null,
+    "description": "A legacy term that refers to site/market segment eg channel id 4 is IT"
+  },
+  {
+    "id": "51",
+    "short_hand": "CLAPA",
+    "expanded_form": "Correcting Links to Add-on Products ",
+    "description": "Correcting Links to Add-on Products for jobs ads project. Deployed under JSP R2 project in Jan 2011"
+  },
+  {
+    "id": "52",
+    "short_hand": "Classic Ad",
+    "expanded_form": null,
+    "description": "A standard ad i.e. non-Standout ad/non-Premium ad"
+  },
+  {
+    "id": "53",
+    "short_hand": "Clojure",
+    "expanded_form": null,
+    "description": "A functional language that runs on the JVM, a Lisp dialect, and often takes hold of developers who speak of it in delirious joy and fervour. It's the programming language equivalent of a cult."
+  },
+  {
+    "id": "54",
+    "short_hand": "CMB",
+    "expanded_form": "Change Management Board",
+    "description": "Change Management Board at SEEK.The CMB consists of a number of PD&S & IT Ops & Apps managers who approve all changes to the SEEK website, to infrastructure."
+  },
+  {
+    "id": "55",
+    "short_hand": "CMIS",
+    "expanded_form": "Commercial matches in SEEK",
+    "description": "Commercial matches in SEEK"
+  },
+  {
+    "id": "56",
+    "short_hand": "Co-Brands",
+    "expanded_form": null,
+    "description": "Now called co-brand alliances.  Examples of these would be Ninemsn, Xtramsn and Yahoo."
+  },
+  {
+    "id": "57",
+    "short_hand": "Config Engine",
+    "expanded_form": null,
+    "description": "A legacy in-house built component designed to deal with the initial inadequacies of the .NET framework.  It uses configuration files to determine the look and feel of sites, it intercepts all calls to the website. See the jive page for more information"
+  },
+  {
+    "id": "58",
+    "short_hand": "CopAJA",
+    "expanded_form": "Copy a job ad.",
+    "description": "Copy a job ad."
+  },
+  {
+    "id": "59",
+    "short_hand": "Copy",
+    "expanded_form": null,
+    "description": "A small piece of text, such as a sentence, a phone number, or an email address that can be displayed on the site."
+  },
+  {
+    "id": "60",
+    "short_hand": "CPS",
+    "expanded_form": "Customer Success Team & Client Product Specialist",
+    "description": "Customer Success Team & Client Product Specialist (NZ). These teams which were first created in work closely with our Hirers to give them support through education about our Products, particularly anything new. This helps them get the best out of SEEK."
+  },
+  {
+    "id": "61",
+    "short_hand": "Credit Hold",
+    "expanded_form": null,
+    "description": "When the Credit team has placed a hold on an advertiser's account because of overdue/unpaid accounts. This prevents access to many features of the site for that advertiser."
+  },
+  {
+    "id": "62",
+    "short_hand": "CS",
+    "expanded_form": "Customer Service",
+    "description": "Customer Service department"
+  },
+  {
+    "id": "63",
+    "short_hand": "CSI",
+    "expanded_form": "Customer Satisfaction Index",
+    "description": "Customer Satisfaction Index - See MARKETING jive page"
+  },
+  {
+    "id": "64",
+    "short_hand": "Data Miner",
+    "expanded_form": null,
+    "description": "This is a service that keeps the content of FAST in sync with the main SeekWeb database (see SeekWeb).  It adds and updates changed and new content and deletes expired ads from the FAST index. Note: The search engine FAST has been replaced with Cloudview"
+  },
+  {
+    "id": "65",
+    "short_hand": "Dequeuer",
+    "expanded_form": null,
+    "description": "The SEEK Learning dequeuer is a .NET console application, written in VB.NET, that processes registrations from the LeadQ & sends to the BOOST integration layer webservice."
+  },
+  {
+    "id": "66",
+    "short_hand": "DOLLY",
+    "expanded_form": null,
+    "description": "Find People Like This feature within Premium Talent Search - for more information, see May 2018 Talent Search Hirer Usability Testing - Dolly Updates Validation Jive Page"
+  },
+  {
+    "id": "67",
+    "short_hand": "Domicile",
+    "expanded_form": null,
+    "description": "At SEEK - determined by the country of the contact address of the Advertiser."
+  },
+  {
+    "id": "68",
+    "short_hand": "DTC",
+    "expanded_form": "Distributed Transaction Coordinator",
+    "description": "The Distributed Transaction Coordinator (DTC, or MSDTC) is a service within Windows that allows for transactions that span multiple resources (eg a database and a message queue). If a given transaction requires for example a new record in a database and a new message in a message queue, and one of these fails, DTC will be responsible for rolling the entire transaction back on all resources."
+  },
+  {
+    "id": "69",
+    "short_hand": "DTO",
+    "expanded_form": "Data Transfer Objects",
+    "description": "Data Transfer Objects are used to transfer data between software applications. "
+  },
+  {
+    "id": "70",
+    "short_hand": "Dual-Listed Ad",
+    "expanded_form": null,
+    "description": "An ad that is created in Main and Exec, or Main and Graduate, during the Online CAJA (Create a job ad) process. (In SAP an ad can be created in Graduate by checking a Graduate box.) There is no charge for dual-listing an ad in Main and Graduate. Dual-listing an ad means there is one JOB ID and two LISTING IDs. e.g. an ad can be dual-listed in MAIN/EXEC as Sydney/Accounting/Accountant (in Main) and Sydney/Accounting/Financial Controller (in Exec)"
+  },
+  {
+    "id": "71",
+    "short_hand": "EAJA",
+    "expanded_form": "Edit a Job Ad Process",
+    "description": "Edit a job ad process - see CAJA and EAJA flowchart Jive page"
+  },
+  {
+    "id": "72",
+    "short_hand": "EBB",
+    "expanded_form": "Elastic Beanstalk",
+    "description": "AWS Elastic Beanstalk is an orchestration service offered from Amazon Web Services for deploying infrastructure which orchestrates various AWS services, including ECSSimple Notification Service, CloudWatch, autoscaling, and Elastic Load Balancers."
+  },
+  {
+    "id": "73",
+    "short_hand": "EFS",
+    "expanded_form": "Elastic File System",
+    "description": "A simple, scalable, elastic file system for Linux-based workloads for use with AWS Cloud services and on-premises resources. It is built to scale on demand to petabytes without disrupting applications, growing and shrinking automatically as you add and remove files, so your applications have the storage they need – when they need it."
+  },
+  {
+    "id": "74",
+    "short_hand": "EI",
+    "expanded_form": "Employment Index",
+    "description": "Employment Index, see SEI (SEEK Employment Index) "
+  },
+  {
+    "id": "75",
+    "short_hand": "EMIS",
+    "expanded_form": "Executive matches in SEEK.",
+    "description": "Executive matches in SEEK. Displays links to relevant Executive Functions from Main search results & directs more traffic to SEEK Exec"
+  },
+  {
+    "id": "76",
+    "short_hand": "ENADS",
+    "expanded_form": "Enhanced job Ads",
+    "description": "Enhanced job Ads, also StandOut Ads"
+  },
+  {
+    "id": "77",
+    "short_hand": "Enhanced Ads",
+    "expanded_form": "Enhanced job Ads",
+    "description": "Enhanced job Ads, also StandOut Ads"
+  },
+  {
+    "id": "78",
+    "short_hand": "EOI",
+    "expanded_form": "Expression of Interest",
+    "description": "Expression of Interest – Jobseeker – can express interest in a company, job type or job. An expression of interest is not considered to be an application even though an EOI in a job could meet the above criteria."
+  },
+  {
+    "id": "79",
+    "short_hand": "ERMS",
+    "expanded_form": "Email Rule Management Service (SAP)",
+    "description": "Email Rule Management Service (SAP)"
+  },
+  {
+    "id": "80",
+    "short_hand": "Esm Advertiser",
+    "expanded_form": "Early Stage Market Advertiser.",
+    "description": "Early Stage Market Advertiser. An advertiser that predominantly uses other forms of advertising rather than online.  These areas are Education, Healthcare & Government"
+  },
+  {
+    "id": "81",
+    "short_hand": "ESOS",
+    "expanded_form": null,
+    "description": "Education Services for Overseas Students. See http://www.aei.gov.au/AEI/ESOS/default.htm"
+  },
+  {
+    "id": "82",
+    "short_hand": "ET",
+    "expanded_form": "Exact Target",
+    "description": "Exact Target is a cloud-based Campaign Management service that acts as an email gateway for emails that are sent to Jobseekers (e.g. New registration emails and JobMail)."
+  },
+  {
+    "id": "83",
+    "short_hand": "Express CAJA",
+    "expanded_form": "Express Create a Job Add",
+    "description": "Express CAJA is a cut down mobile-only version of the Create a Job ad process on the SEEK Talent website. This product launched in Oct to SME Direct Hirers who are new to SEEK. "
+  },
+  {
+    "id": "84",
+    "short_hand": "External Referring Domains",
+    "expanded_form": null,
+    "description": "A Nielsen/NetRatings site metrics term. The Omniture term is Referring domain. The domain your visitors came from to access your site. Requires user to have clicked on a link to your site from the referring site."
+  },
+  {
+    "id": "85",
+    "short_hand": "External Referring Urls",
+    "expanded_form": null,
+    "description": "A Nielsen/NetRatings site metrics term. The Omniture term is Referring URL. The URL (or specific page)  your visitors came from before they were on your site. Requires user to have clicked on a link to your site from the referring site."
+  },
+  {
+    "id": "86",
+    "short_hand": "Eyeball Minutes",
+    "expanded_form": null,
+    "description": "A Nielsen/NetRatings market intelligence term. The total amount of time, reported in thousands of seconds, of all UBs spent on site in the reporting period (excluding time spent on final page of session, which cannot be measured). This is calculated by multiplying Page Impressions (PI) by Average Page Duration (APD).  The time spent on the final page of every visit is not capturable by Nielsen, refer to Hitwise Average Visit Time reports."
+  },
+  {
+    "id": "87",
+    "short_hand": "F#",
+    "expanded_form": null,
+    "description": "Microsoft's functional first programming language that originally started off as a research piece then made inroads into the scientific and financial programming communities. It has now reached a reasonable level of interest and curiosity within the general programming community. It's typically referenced along with Scala as a modern multi- paradigm language, allowing developers to take the best from functional and object oriented programming. Real developers do functional."
+  },
+  {
+    "id": "88",
+    "short_hand": "F5",
+    "expanded_form": null,
+    "description": "A project that changed the look and layout of the home pages for AU, NZ & UK (3 phases, last phase completed in 2009). See http://aumel-intra:82/PWA/F5/_layouts/viewlsts.aspx"
+  },
+  {
+    "id": "89",
+    "short_hand": "FAJA",
+    "expanded_form": "Find A Job Ad",
+    "description": "A 2012 project to update our Search process."
+  },
+  {
+    "id": "90",
+    "short_hand": "Fast",
+    "expanded_form": null,
+    "description": "A powerful indexing engine which we use for job searching and indexing of resumes. For more details see the @SEARCH project page"
+  },
+  {
+    "id": "91",
+    "short_hand": "FAST CAJA",
+    "expanded_form": null,
+    "description": "A page within SMART that compresses 3-5 pages to 1 page to allow Customer Service to enter the job details for an advertiser quickly."
+  },
+  {
+    "id": "92",
+    "short_hand": "Fastlane",
+    "expanded_form": null,
+    "description": "An alternative to CAJA. The advertiser fills out a spreadsheet (one row per job). This outputs an xml file that goes to the upload page on the website and is synchronised with our database.  See Fastlane Plus Project (Bulk Imports)  for more information. Fastlane Plus is currently being replaced - see Job Posting API (FLAPI) for more information"
+  },
+  {
+    "id": "93",
+    "short_hand": "Fastlane Plus",
+    "expanded_form": null,
+    "description": "Advertisers can write their own webservices client that automatically pushes multiple jobs to our website and synchronises it with our database."
+  },
+  {
+    "id": "94",
+    "short_hand": "FAT",
+    "expanded_form": "Format Ad Toolbar",
+    "description": "A project to add a formatting toolbar to the CAJA process to provide basic formatting to hirers while creating a job ad."
+  },
+  {
+    "id": "95",
+    "short_hand": "FLAPI",
+    "expanded_form": null,
+    "description": "An Engineering Stream API replacement for Fastlane Plus - see Job Posting API (FLAPI) for more information"
+  },
+  {
+    "id": "96",
+    "short_hand": "FLD",
+    "expanded_form": "Faster Lead Distribution",
+    "description": "An outline of how the SEEK Learning leads can be distributed to the sales staff in a more efficient manner."
+  },
+  {
+    "id": "97",
+    "short_hand": "FOP",
+    "expanded_form": "Forgot password",
+    "description": "An enhancement to provide advertisers with the option to request login details via the website. See Update Advertiser account details/Forgot password - old advertiser centre"
+  },
+  {
+    "id": "98",
+    "short_hand": "FRACEL",
+    "expanded_form": "FRAmework Config Engine Lightweight",
+    "description": "A framework – part of CLASS Phase 1 Project - See Past IT projects jive page"
+  },
+  {
+    "id": "99",
+    "short_hand": "GDPR",
+    "expanded_form": "General Data Protection Regulation",
+    "description": "A regulation in EU law on data protection and privacy for all individuals within the European Union (EU) and the European Economic Area (EEA). It also addresses the export of personal data outside the EU and EEA areas. The GDPR aims primarily to give control to individuals over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the EU."
+  },
+  {
+    "id": "100",
+    "short_hand": "Graduate",
+    "expanded_form": null,
+    "description": "A graduate/entry-level job covers apprenticeships, traineeships, cadetships and other junior roles."
+  },
+  {
+    "id": "101",
+    "short_hand": "Granular Location",
+    "expanded_form": null,
+    "description": "Granular location involves adding the suburb & postcode for every ad in CAJA (Creating a Job Ad on the website), so that candidates can search for job ads in a specific location. This is an Hirer stream & Search stream project - see Finding Granny (Granular Location)."
+  },
+  {
+    "id": "102",
+    "short_hand": "GUID",
+    "expanded_form": null,
+    "description": "A Globally Unique Identifier is a unique reference number used as an identifier in computer software. The term GUID typically refers to various implementations of the universally unique identifier (UUID) standard"
+  },
+  {
+    "id": "103",
+    "short_hand": "Haskell",
+    "expanded_form": null,
+    "description": "Often used as a comparison by other functional languages given its strictness and purity, has a very academic focus although there has been some business use. Haskell developers generally have neck beards and several PhDs after their name, their code inspires fear and awe in the rest us mortals."
+  },
+  {
+    "id": "104",
+    "short_hand": "Hobbit ",
+    "expanded_form": null,
+    "description": "A search algorithm which has since been renamed to SmartSearch."
+  },
+  {
+    "id": "105",
+    "short_hand": "HSM",
+    "expanded_form": null,
+    "description": "A hardware security module (HSM) is a physical computing device that safeguards and manages digital keys for strong authentication and provides cryptoprocessing. These modules traditionally come in the form of a plug-in card or an external device that attaches directly to a computer or network server."
+  },
+  {
+    "id": "106",
+    "short_hand": "HTTPS",
+    "expanded_form": "Secure Hyper Text Transport Protocol",
+    "description": "When logging on to secure Web sites, the URL starts with HTTPS rather than HTTP. The 'S' indicates a secure connection. HTTP Over SSL. Protocol enabling the secured transmission of Web pages. A secure version of HTTP which encrypts data."
+  },
+  {
+    "id": "107",
+    "short_hand": "IC",
+    "expanded_form": "Internet Consultant",
+    "description": "A SEEK sales representative. Some are state based and they deal predominantly with large volume customers"
+  },
+  {
+    "id": "108",
+    "short_hand": "ICWEB",
+    "expanded_form": "Interaction Centre Web",
+    "description": "This is the web-based interface for our SAP CRM, used by CS and Sales for Account maintenance,"
+  },
+  {
+    "id": "109",
+    "short_hand": "IL",
+    "expanded_form": "Intermediate Layer",
+    "description": "This is the name that is given to the byte code run by the CLR (a separate programming language focused virtual machine - see CLR). This where code from a high level language, such as C# or Java, is compiled into byte code that is then run by the virtual machine. The majority of the code we develop is written in C# and run on the CLR, but we have services such as CloudView that are written in Java and run on the JVM."
+  },
+  {
+    "id": "110",
+    "short_hand": "IM",
+    "expanded_form": "Inventory Management",
+    "description": "Often used to refer to Premium Ads but actually includes Jobmail slots (no longer used) and Banner Ads/Feature tiles - see Inventory Management (IM) Jive page"
+  },
+  {
+    "id": "111",
+    "short_hand": "Industry Pages",
+    "expanded_form": null,
+    "description": "Pages on the site that are setup for an industry eg for accounting jobs the page would be http://seek.com.au/accounting-jobs These pages have targeted advertising and allow us to guide search engine traffic to relevant pages."
+  },
+  {
+    "id": "112",
+    "short_hand": "Integration",
+    "expanded_form": null,
+    "description": "Usually refers to Biztalk – which integrates the website with SAP. Also means the point where code is merged from earlier projects into later projects"
+  },
+  {
+    "id": "113",
+    "short_hand": "Ironport",
+    "expanded_form": null,
+    "description": "Ironport is the hardware device that we use to send and receive emails securely. Note that this has been superceded for some Website emails e.g. JobMail and Jobseeker registration. For more information contact the Systems Engineers in IT Ops."
+  },
+  {
+    "id": "114",
+    "short_hand": "ITA",
+    "expanded_form": "Invite to Apply",
+    "description": "Also called Send Job. The ITA (Invite to Apply) project provided Advertisers with the ability to send an email to a Jobseeker with details for their Job ad. The button within the Jobseeker Profile product is called 'Send Job'. This functionality was implemented as part of the Invite To Apply project - Release 1 (end of August 2013). Advertiser are allowed to invite a Jobseeker once per Job ad. They are allowed up to 20 invites per Job ad. If a Jobseekers profile has already been purchased or they have already applied for this job ad, then the Jobseeker is not able to be invited or purchased."
+  },
+  {
+    "id": "115",
+    "short_hand": "Jabba",
+    "expanded_form": null,
+    "description": "The project that removed the IT site from the SEEK website."
+  },
+  {
+    "id": "116",
+    "short_hand": "JAC",
+    "expanded_form": "Job Apply Confirmation",
+    "description": "Job Apply Confirmation email that is sent to the Candidate after they apply for a job"
+  },
+  {
+    "id": "117",
+    "short_hand": "JAD",
+    "expanded_form": "Joint Application Design",
+    "description": "Joint Application Design is an architecture forum for rapid solution development"
+  },
+  {
+    "id": "118",
+    "short_hand": "JAG",
+    "expanded_form": "Joint Architecture Group",
+    "description": "The technical Architectural Community of Practice at SEEK. Meetings fortnightly and it aims to build greater shared understanding, support and alignment in the architectural choices made between and within teams at SEEK."
+  },
+  {
+    "id": "119",
+    "short_hand": "JAJA",
+    "expanded_form": "Job Ad preview on Job Apply",
+    "description": "Job Ad preview on Job Apply page. See - http://wiki/mediawiki/index.php/JAJA_User_stories"
+  },
+  {
+    "id": "120",
+    "short_hand": "JAM",
+    "expanded_form": "Job ad management",
+    "description": "The JAM (reworking Job ad management) project was the initiative to replace the VersionNet legacy code which has little automated test coverate, is difficult to change and causes high severity incidents."
+  },
+  {
+    "id": "121",
+    "short_hand": "JAPU",
+    "expanded_form": "Job Apply Profile Upsell",
+    "description": "Job Apply Profile Upsell (as part of the JSP project). When a jobseeker applies for job, they are prompted to create a profile, if they haven't already done so."
+  },
+  {
+    "id": "122",
+    "short_hand": "JAR",
+    "expanded_form": "Job Apply Rework",
+    "description": "The JAR (Job Apply Rework) project aims to update the Job Apply process. It is part of the Engineering Stream"
+  },
+  {
+    "id": "123",
+    "short_hand": "JDP",
+    "expanded_form": "Job Details Page",
+    "description": "A page that contains details of a job (e.g. after a Candidate clicks on a specific job from the search engine results page)"
+  },
+  {
+    "id": "124",
+    "short_hand": "JLO",
+    "expanded_form": "Jobseeker profiles Link Out",
+    "description": "This project (commenced in August 2011), involved the creation of a mini site that third party uploaders (3PUs) and advertisers can access to purchase JSPs (if they don't have access to the Advertiser centre). See The specified item was not found."
+  },
+  {
+    "id": "125",
+    "short_hand": "Job",
+    "expanded_form": null,
+    "description": "A job is the detail of the job ad. A job can have one or more listings. The details are stored at the job level and the classifications are stored at the listings level"
+  },
+  {
+    "id": "126",
+    "short_hand": "Job Application",
+    "expanded_form": null,
+    "description": "An application for employment made by a Jobseeker for a particular Job Ad on SEEK. See Job Apply flowcharts on Jive"
+  },
+  {
+    "id": "127",
+    "short_hand": "Job Application Attachments",
+    "expanded_form": null,
+    "description": "Additional files associated with a Job Application. The files can be uploaded directly by the Jobseeker or written/completed by the Jobseeker and uploaded by SEEK. Attachments include Cover Letter, Resume, Screen and Selection Criteria"
+  },
+  {
+    "id": "129",
+    "short_hand": "Job Application Details",
+    "expanded_form": null,
+    "description": "Includes SEEK’s internal application client’s job reference, application submitted date, SEEK’s jobseeker ID (if it exists)."
+  },
+  {
+    "id": "130",
+    "short_hand": "Jobmail",
+    "expanded_form": null,
+    "description": "Emails sent out to jobseekers that contains jobs that match their job search profiles.  The Jobmail process starts executing at approx 12:05am every day and has a completion SLA of 9am."
+  },
+  {
+    "id": "131",
+    "short_hand": "JobMail PROFILES",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. The number of JobMail profiles created (first or addditional) within a specified reporting timeframe."
+  },
+  {
+    "id": "132",
+    "short_hand": "JobMail VISITS",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. A visit to the site which has originated from a click on a link in the JobMail email."
+  },
+  {
+    "id": "133",
+    "short_hand": "JOBSEEKER",
+    "expanded_form": null,
+    "description": "Jobseekers are people that look for jobs on the SEEK website, they may or may not be registered.  They are referred to as candidates on the Advertiser website. Note: the correct spelling is Jobseeker. Now referred to as Candidates."
+  },
+  {
+    "id": "134",
+    "short_hand": "JORS",
+    "expanded_form": null,
+    "description": "Jobsearch Relevancy Survey. This is a question on the job search results page, and the job details page, that asks the jobseeker if they think this job is relevant. See image below"
+  },
+  {
+    "id": "135",
+    "short_hand": "Js Registrations",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. The number of completed jobseeker registrations in a given reporting period."
+  },
+  {
+    "id": "162",
+    "short_hand": "OAC",
+    "expanded_form": "Old Ad Centre",
+    "description": "Old Ad Centre, also called Old Advertiser Centre or Advertiser Centre (advertiser.seek.com.au), it has been replaced by the New Ad Centre (NAC) talent.seek.com.au. Clients are still being migrated from the OAC to the NAC. For more information see the Pacman (Position And Candidate Management) project."
+  },
+  {
+    "id": "136",
+    "short_hand": "JSP",
+    "expanded_form": "Jobseeker profile",
+    "description": "A Jobseeker profile is made up of a resume provided by the jobseeker and a summary of their experience, skills and ideal job information, entered into our system by the Jobseeker. Jobseeker Profiles - JSP   was also the name of the Jobseeker profile project which replaced the old Resume Search application. It allows storage of jobseeker resumes and profiles.  It allows advertisers to head-hunt jobseekers using the details they have stored. Also Jobseeker Promise"
+  },
+  {
+    "id": "137",
+    "short_hand": "JSU",
+    "expanded_form": "Job Seeker Update",
+    "description": "Job Seeker Update was a project to replace the Config Engine with the MVC framework on the jobseeker website.  See JSU project"
+  },
+  {
+    "id": "138",
+    "short_hand": "Junction Points",
+    "expanded_form": null,
+    "description": "Jobseeker Profiles - JSP   was also the name of the Jobseeker profile project which replaced the old Resume Search application. It allows storage of jobseeker resumes and profiles.  It allows advertisers to head-hunt jobseekers using the details they have stored."
+  },
+  {
+    "id": "139",
+    "short_hand": "JVM",
+    "expanded_form": "Java Virtual Machine",
+    "description": "Despite the name, this virtual machine interprets byte code compiled from more than just Java (Scala and Clojure to name a couple) and then runs it as native code"
+  },
+  {
+    "id": "140",
+    "short_hand": "JYMHM",
+    "expanded_form": "Jobs You May Have Missed",
+    "description": "aka Project Bradbury from the Notifications stream, a jobs you may have missed section has been added to JobMail to solve the problem of JobMail candidates missing out on the most relevant jobs if they don't open their JobMail emails every day or visit SEEK. See Bradbury (Jobs you may have missed) Product showcase_05102016 for more information."
+  },
+  {
+    "id": "141",
+    "short_hand": "KUPS",
+    "expanded_form": "Keyword Upsell",
+    "description": "When a jobseeker is searching on the SEEK website, and they enter a keyword, e.g. Accountant Sydney, because Sydney is a location, it will return all jobs which contain the word Sydney as well as jobs with the location of Sydney. In addition, because Accountant is a classification, it will return all jobs with a classification of Accountant."
+  },
+  {
+    "id": "142",
+    "short_hand": "LEGO",
+    "expanded_form": null,
+    "description": "LEGO (the acronym has no meaning) was the first agile project in the Advertiser Site Upgrade programme of work. It commenced in August 2011."
+  },
+  {
+    "id": "143",
+    "short_hand": "Lemmatization",
+    "expanded_form": null,
+    "description": "The mapping of a word to its base form and / or all its other inflectional forms, such as: singular or plural for nouns tense and person for verbs positive, comparative, or superlative forms for adjectives. For example, a search for “car” will get documents containing “cars” as well. Stemming is different in that it would get documents containing words starting with “car” i.e. “cared” or “career”. Lemmatization is used by SEEK's FASTCloudview search engine when a jobseeker is searching for a job."
+  },
+  {
+    "id": "144",
+    "short_hand": "LISTING",
+    "expanded_form": null,
+    "description": "A Listing is the classification level of detail of a job.  A job has one or more listings e.g. a dual list job will have a listing in main and exec"
+  },
+  {
+    "id": "145",
+    "short_hand": "LMIS",
+    "expanded_form": "Learning Matches in Search",
+    "description": "Learning Matches in Search. See Learning Matches in Search (LMIS) Jive Page"
+  },
+  {
+    "id": "146",
+    "short_hand": "LO",
+    "expanded_form": "LinkOut",
+    "description": "This allows jobseekers to apply directly for a job on the Advertisers website linking directly to the Advertisers application tracking system. Statistics of LinkOut starts are stored but no record of whether applications are completed can be logged."
+  },
+  {
+    "id": "147",
+    "short_hand": "MAIN",
+    "expanded_form": null,
+    "description": "The Australian SEEK website  (www.seek.com.au) also referred to as AUSMAIN or SEEK Blue as it makes up the main market segment"
+  },
+  {
+    "id": "148",
+    "short_hand": "MAJA",
+    "expanded_form": "Mirror a job ad",
+    "description": "See http://wiki/mediawiki/index.php/MAJA_Mirror_a_job_ad ESM-Government and Healthcare have their job ads mirrored (copied) for free. e.g. A federal government accountant job that is created under the Government/Defence classification is mirrored under the Accounting classification. When a job ad is mirrored there are two separate JOB IDs each with their own LISTING IDs (unlike DUAL-LISTED ads, where there is one JOB ID and two LISTING IDs)."
+  },
+  {
+    "id": "149",
+    "short_hand": "MAMS",
+    "expanded_form": "Master Agency Media Service",
+    "description": "Master Agency Media Service (Government)"
+  },
+  {
+    "id": "150",
+    "short_hand": "Market Segment",
+    "expanded_form": null,
+    "description": "A concept for grouping listings e.g. Market Segment 1 is known as Main, Market Segment 2 is known as Exec, Market Segment 3 is Campus, Market Segment 4 is IT, Market Segment 26 is Healthcare. There are others but most of the functionality relating to the others is now legacy e.g. Adecco"
+  },
+  {
+    "id": "151",
+    "short_hand": "MAX/MAX",
+    "expanded_form": null,
+    "description": "Refers to roles where candidates are highly skilled and in short supply, and are therefore ‘picky’ about the role they are searching for (e.g. looking for the best salary, working conditions, career progression prospects, etc.). In Max/Max, advertisers are also picky – they only want to hire the best candidate for the role. Rather than looking for ‘just anyone’ who can fill the role, the advertiser is looking for a candidate who meets a wide range of specific requirements, which may include hard factors such as qualifications and experience and softer factors like cultural fit, values, etc. Max/Max or (Max-Max or Max Max) roles are often found in specialist fields. Example Roles: Geologists, User Experience Experts, CEOs"
+  },
+  {
+    "id": "152",
+    "short_hand": "Mirror A Job Ad (Maja)",
+    "expanded_form": null,
+    "description": "There are others but most of the functionality relating to the others is now legacy e.g. Adecco"
+  },
+  {
+    "id": "153",
+    "short_hand": "Mobile",
+    "expanded_form": null,
+    "description": "The Mobile Apps stream is an Online Delivery stream to enable jobseekers to access all functionality from the SEEK website on their mobile device"
+  },
+  {
+    "id": "154",
+    "short_hand": "MoM",
+    "expanded_form": "Month on Month",
+    "description": " Month on Month (a finance term) i.e. May-13 vs. April-13"
+  },
+  {
+    "id": "155",
+    "short_hand": "MSO",
+    "expanded_form": "Mandatory StandOut Pack",
+    "description": "All ads are automatically upgraded from Classic to StandOut for any Hirer with an MSO automatically "
+  },
+  {
+    "id": "156",
+    "short_hand": "Multi-Listed Ads",
+    "expanded_form": null,
+    "description": "Creating an ad once, but having it appear in more than one area e.g. Main/Exec or Main/Grad. See Dual-list and MAJA (Mirror a job ad)."
+  },
+  {
+    "id": "157",
+    "short_hand": "MVC",
+    "expanded_form": "Model View Controller",
+    "description": "Model View Controller is an architectural pattern which isolates domain logic from input and presentation (GUI), permitting independent development, testing and maintenance of each. A pattern, or more typically a framework, to provide a way to organise code in a more maintainable structure. The model refers to the data, the view the presentation or interface and controller to string them together"
+  },
+  {
+    "id": "158",
+    "short_hand": "MVP",
+    "expanded_form": "Minimum Viable Product",
+    "description": "A product with just enough features to satisfy early customers, and to provide feedback for future product development"
+  },
+  {
+    "id": "159",
+    "short_hand": "NAC",
+    "expanded_form": "New Ad Centre / New Advertiser Centre",
+    "description": "Also known as Pacman, or Talent - SEEK Advertiser Centre (talent.seek.com.au) in contrast to the old advertiser centre (OAC) (advertiser.seek.com.au). The New Ad Centre, launched October 2012 and the project name was Pacman (Position And Candidate Management) in the Advertiser stream. All Advertisers have now been migrated from the Old Advertiser Centre (OAC) (advertiser.seek.com.au) as of Oct 2016 and it's now just called the Advertiser Centre. It is the SEEK platform hirers use to place their job ads, track and manage candidates, and review job applications. The NAC is a great platform thats makes it much easier for hirers to manage the hiring process."
+  },
+  {
+    "id": "160",
+    "short_hand": "Native Application",
+    "expanded_form": null,
+    "description": "A Job Ad that uses the standard SEEK application process to capture Job Applications. This is opposed to a LinkOut ads"
+  },
+  {
+    "id": "161",
+    "short_hand": "NPM",
+    "expanded_form": "Node Package Manager",
+    "description": "A package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js"
+  },
+  {
+    "id": "163",
+    "short_hand": "Oauth",
+    "expanded_form": null,
+    "description": "OAuth is a protocol used to authenticate clients (advertisers/third party partners) against the SEEK APIs (e.g. Application Support and JSP APIs)."
+  },
+  {
+    "id": "164",
+    "short_hand": "OKR",
+    "expanded_form": "Objectives and Key Results",
+    "description": "Objectives and Key Results is a process for setting, communicating and monitoring goals. e.g. Objective: Improve customer satisfaction. Key Result: Improve NPS from 5.0 to 8.0."
+  },
+  {
+    "id": "165",
+    "short_hand": "Omniture",
+    "expanded_form": null,
+    "description": "A third party company that allows web analytics of user behaviour on SEEK’s websites."
+  },
+  {
+    "id": "166",
+    "short_hand": "Online",
+    "expanded_form": null,
+    "description": "Usually refers to the SEEK website www.seek.com.au"
+  },
+  {
+    "id": "167",
+    "short_hand": "Onsite",
+    "expanded_form": null,
+    "description": "Onsite companies have a SEEK job search on their website that looks like their website. When searching for a job on their website it queries our database e.g. http://www.jobs.adecco.com.au/ - ADECCO and http://www.rdns.com.au/CORPORATE/CAREERS/Pages/Current%20Vacancies.aspx  - the RDNS site."
+  },
+  {
+    "id": "168",
+    "short_hand": "OOP/ OO",
+    "expanded_form": "Object oriented programming",
+    "description": "A form of programming that focuses on the use of objects containing data and the actions that can be performed on the data"
+  },
+  {
+    "id": "169",
+    "short_hand": "Opportunity",
+    "expanded_form": null,
+    "description": "An opportunity is created within SAP CRM by Sales (it is similar to a quote) and is converted to a contract once the advertiser has agreed to it."
+  },
+  {
+    "id": "170",
+    "short_hand": "Orchestration",
+    "expanded_form": null,
+    "description": "A Biztalk term that means to  execute a series of steps. Orchestrations in biztalk are the steps which manage data passed between SeekWeb and SAP"
+  },
+  {
+    "id": "171",
+    "short_hand": "Overad",
+    "expanded_form": null,
+    "description": "Any Ad(s) that exceeds the contract amount e.g. If an advertiser has a contract for 100 jobs per month and advertises 120 jobs during a particular month, then the 20 OverAds will be charged at the existing contracted per ad rate.   Note: Prior to there was an OverAd rate that applied to ads that exceeded the subscription amount by more than 10% - this no longer exists."
+  },
+  {
+    "id": "172",
+    "short_hand": "OWASP",
+    "expanded_form": "Open Web Application Security Project",
+    "description": "The Open Web Application Security Project, an online community, produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security."
+  },
+  {
+    "id": "173",
+    "short_hand": "P1 data",
+    "expanded_form": null,
+    "description": "Priority 1 job seeker data. This data can be used to autofill fields in a jobseeker's JSP profile and future products. It is called Priority 1 because Hirers have identified this data to be of premium importance to them. P1 data was identified during the BOLT project  and consists of Job title Time in Role Company name Is new to the workforce?"
+  },
+  {
+    "id": "174",
+    "short_hand": "PA",
+    "expanded_form": "Premium Ad",
+    "description": "Premium Ads are ads that are highlighted in yellow and appear at the top of a job search list. There are only two Premium Ad slots per classification, sub-classification and location. For more information see \\"
+  },
+  {
+    "id": "175",
+    "short_hand": "Pacman",
+    "expanded_form": null,
+    "description": "See NAC"
+  },
+  {
+    "id": "176",
+    "short_hand": "Page Impressions",
+    "expanded_form": null,
+    "description": "See also Page Views A Nielsen/NetRatings site metrics term. The Omniture term is Page Impressions. A page view occurs when a visitor accesses a page on your web site. A Page Impression is recorded each time a page instrumented with the Nielsen//NetRatings code is displayed in a user's browser. This will occur whether the page is served directly from the web server, from a proxy, or from the browser’s cache."
+  },
+  {
+    "id": "177",
+    "short_hand": "Page Views",
+    "expanded_form": null,
+    "description": "(see also Page Impressions) Omniture site metrics term. The Nielsen/NetRatings term is Page Impressions. A page view occurs when a visitor accesses a page on your web site. A Page View is recorded each time a page instrumented with Omniture code is displayed in a user's browser This will occur whether the page is served directly from the web server, from a proxy, or from the browser’s cache."
+  },
+  {
+    "id": "178",
+    "short_hand": "PASS",
+    "expanded_form": "Premium Ad Self Service",
+    "description": "Premium Ad Self Service (a project that replaced the Premium Listings spreadsheet), which allows Advertisers to book Premium Ads online. See Purchase a premium ad online - PASS"
+  },
+  {
+    "id": "179",
+    "short_hand": "Path Length",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term that shows you, by percentage and by total count, the depth of each visit to your site. It indicates how many pages the average visitor to your site views before leaving"
+  },
+  {
+    "id": "180",
+    "short_hand": "PCP",
+    "expanded_form": "Prior Comparison Period",
+    "description": "Prior Comparison Period (a finance term) e.g. May-13 vs May-12. In data terms – this means comparing metrics for the current period of time against a prior period of time.  This might mean sales this year to date vs sales last year up to the same date, or last quarter against the quarter before that. Whatever the comparison, PCP generally refers to a similar period of time."
+  },
+  {
+    "id": "181",
+    "short_hand": "PII",
+    "expanded_form": "Personally Identifiable Information",
+    "description": "Personal information in the context of security and privacy laws."
+  },
+  {
+    "id": "182",
+    "short_hand": "PIR",
+    "expanded_form": "Post Incident Review",
+    "description": "Post Incident Review"
+  },
+  {
+    "id": "238",
+    "short_hand": "SEO",
+    "expanded_form": "Search Engine Optimisation",
+    "description": "Search Engine Optimisation is the streamlining of the SEEK Website to ensure it has a high prominence in search engines such as Google, where organic searches (i.e. non-paid) are sourced"
+  },
+  {
+    "id": "183",
+    "short_hand": "POC",
+    "expanded_form": "Proof Of Concept",
+    "description": "Proof of concept is a realization of a certain method or idea in order to demonstrate its feasibility, or a demonstration in principle with the aim of verifying that some concept or theory has practical potential."
+  },
+  {
+    "id": "184",
+    "short_hand": "Premium Listings",
+    "expanded_form": null,
+    "description": "See premium Ads/PA"
+  },
+  {
+    "id": "185",
+    "short_hand": "Pricing Engine",
+    "expanded_form": null,
+    "description": "In SAP there is a pricing engine that works on product codes to determine price eg AUSKJOB is the product code for a job on the Australian website"
+  },
+  {
+    "id": "186",
+    "short_hand": "PRN",
+    "expanded_form": "Payment Reference Number",
+    "description": "The PRN is generated by Online when an Advertiser pays by credit card. The PRN is sent to Westpac and then included in the CAF file that is returned to SEEK to allow payments to be cross-referenced in SAP."
+  },
+  {
+    "id": "187",
+    "short_hand": "Proactive reach",
+    "expanded_form": null,
+    "description": "Corporate hirers want us to do more when it comes to minimising the time and effort to identify new potential candidates. This is an ongoing area of importance of the Talent Search roadmap and focus areas. "
+  },
+  {
+    "id": "188",
+    "short_hand": "PROFIT",
+    "expanded_form": "PRioritisation OF work for IT forum",
+    "description": "This forum prioritises project and work requests for IT where the cost is over $50,000"
+  },
+  {
+    "id": "189",
+    "short_hand": "PTS",
+    "expanded_form": "Premium Talent Search",
+    "description": "   This differs from our standard Talent Search product as it provides hirers with more flexible ways to search for candidates. While standard Talent Search allows the hirer to search Profiles that match a live job ad on their account,    Premium Talent Search does this and more, allowing the hirer to openly search our entire database of over five million Profiles using refinements like location, title, company name or skills. It also includes the Approachability Signal which    helps hirers to easily gauge if a candidate may be actively looking and therefore more receptive to new opportunities. This is a paid upgrade to the standard Talent Search (which allows Hirers to search all candidates for a particular job ad). This allows Hirers to search for candidates that matches a job ad criteria, or to initiate an unrestricted search using their own search terms."
+  },
+  {
+    "id": "190",
+    "short_hand": "RAMBO",
+    "expanded_form": "Relationship Acquisition Method Best Outcome",
+    "description": "Project Rambo (Relationship Acquisition Method Best Outcome) addressed the problem of Hirers being unaware of the JSP product and having no authorization/capability to access JSP matches for their job ads (specifically Third Party Partners who upload ads in bulk and don't use the SEEK website). It allows all hirers to personally establish a hirer account with SEEK. This project ran during April/May 2014."
+  },
+  {
+    "id": "191",
+    "short_hand": "Rasci",
+    "expanded_form": null,
+    "description": "Responsibility Assignment matrix which clarifies roles and responsibilities for a particular project or process."
+  },
+  {
+    "id": "192",
+    "short_hand": "RATE CARD",
+    "expanded_form": null,
+    "description": "Rate cards contain the pricing for all SEEK products and are usually updated in July. See Rate Cards Jive page"
+  },
+  {
+    "id": "193",
+    "short_hand": "RDS",
+    "expanded_form": "Relational Database Service",
+    "description": "A scalable relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups."
+  },
+  {
+    "id": "194",
+    "short_hand": "Referrers",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. A domain or URL used outside of your defined domain to access your site. The Referring Domains Report and the Referrers Report break referrer data into domains and URLs so that you can view the instances that visitors access your site from a particular domain or URL. For example, if a visitor clicks a link from Site A and arrives at your site, Site A is the referrer if it is not defined as part of your domain."
+  },
+  {
+    "id": "195",
+    "short_hand": "Referring Domain",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term.The Nielsen/NetRatings term is External referring domains. The domain your visitors came from to access your site. Requires user to have clicked on a link to your site from the referring site."
+  },
+  {
+    "id": "196",
+    "short_hand": "Referring Url",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. The Nielsen/NetRatings term is External referring URLs. The URL (or specific page)  your visitors came from before they were on your site. Requires user to have clicked on a link to your site from the referring site."
+  },
+  {
+    "id": "197",
+    "short_hand": "RELOADS",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. Counted when the same pageName is loaded twice.Some examples of reloads are defined below: By clicking Refresh, the original page loads into the browser. Reloads that are automatically refreshed by the web site. By leaving the site completely, accessing another site, and then clicking the Back Button so that the original page loads into the browser NOTE: If you have a page displayed in the browser for over 30 minutes, and then you click Refresh, SiteCatalyst does not register a reload because the visit  has been terminated and a new visit has begun."
+  },
+  {
+    "id": "198",
+    "short_hand": "RENEG",
+    "expanded_form": "Renegotiation",
+    "description": "Renegotiation of a contract which should occur prior to the expiry of the current contract. See Renegotiating an opportunity"
+  },
+  {
+    "id": "199",
+    "short_hand": "Resume Search",
+    "expanded_form": null,
+    "description": "Resume Search now called Jobseeker Profiles -  JSP which allowed Advertisers to search through Jobseeker’s resumes for potential job candidates. The JSP project was completed in April 2011."
+  },
+  {
+    "id": "200",
+    "short_hand": "Return Frequency",
+    "expanded_form": null,
+    "description": "(see also UB Frequency) An Omniture site metrics term. The Nielsen/NetRating term is UB Frequency. The number of days between repeat visits from your visitors."
+  },
+  {
+    "id": "201",
+    "short_hand": "Return Visits",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. SiteCatalyst report that shows how many individuals have visited more than once since SiteCatalyst began tracking your site. These visits are not for a specified time, but are all those that have viewed your site once and have then returned."
+  },
+  {
+    "id": "202",
+    "short_hand": "Revenue",
+    "expanded_form": null,
+    "description": "Revenue is what is recognised in our Profit and Loss statment. There is a difference between what we bill the customer and what is in the P&L statement. e.g. We may bill a customer upfront, but not provide the service until a later date. Once the service has been provided we are able to report the billings as revenue."
+  },
+  {
+    "id": "203",
+    "short_hand": "RFC",
+    "expanded_form": "Request For Comment",
+    "description": "A Request for Comments is a type of publication from the technology community, that requests comment from the broader community in the forming of standards."
+  },
+  {
+    "id": "204",
+    "short_hand": "ROT",
+    "expanded_form": null,
+    "description": "Remove Other IT skill. An enhancement to remove 'Other' from the skills classification in IT. PRN20138."
+  },
+  {
+    "id": "205",
+    "short_hand": "RPO",
+    "expanded_form": "Recruitment Process Outsourcing",
+    "description": "RPO pricing has been developed for recruiter clients (Hays etc) who offer onsite recruitment to their clients. An example of this would be a recruiter who has their staff sitting onsite at a company like GE, Commonwealth Bank, Telstra etc. and this team only recruit for this one client and normally on a long term contract basis. Technically this client (Telstra etc) is not eligible for SEEKs recruiter rates. RPO is a process/pricing group set up so these clients can be billed. The main recruiter is still responsible for these contracts, pricing and agreements. See  RPO Agreement"
+  },
+  {
+    "id": "206",
+    "short_hand": "RRT",
+    "expanded_form": "Rapid Response Team",
+    "description": "The Rapid Response Team was replaced by the Application Support team in IT Ops & Apps"
+  },
+  {
+    "id": "239",
+    "short_hand": "SERP",
+    "expanded_form": "Search engine results page",
+    "description": "Search engine results page "
+  },
+  {
+    "id": "207",
+    "short_hand": "RSS",
+    "expanded_form": "Really Simple Syndication",
+    "description": "SEEK provides an RSS feed which alerts you through the day as new jobs are listed on the web site.  http://rss.seek.com.au/rss.aspx?Keywordsa&RMmain&RMit&RMOmodel-main&RUSSEEKMAIN_USR&RID192752  RSS was retired in January 2012 due to its low usage rate by jobseekers."
+  },
+  {
+    "id": "208",
+    "short_hand": "SAE",
+    "expanded_form": "SEEK Application Export ",
+    "description": "A feature where candidate data can be retrieved on demand directly from SEEK's webservers. See SEEK Application Export business process jive page. The following information is retrievable through SAE: candidate contact details (first name, last name, email address, phone number) plus the Seek JobseekerID identifier if the candidate was logged in when they applied for the jobjob application attachments: resume, cover letter, selection criteria documentscandidate screening questionand answers (if applicable to the job advertised)"
+  },
+  {
+    "id": "209",
+    "short_hand": "SAM",
+    "expanded_form": "Senior Account Manager ",
+    "description": "Senior Account Manager (Field Sales) used to be called an IC (Internet Consultant)."
+  },
+  {
+    "id": "210",
+    "short_hand": "SANTA",
+    "expanded_form": "Single front door Activation and Nation fix for The new Advertiser centre. ",
+    "description": "Single front door Activation and Nation fix for the new Advertiser Centre. (7 November 2012)"
+  },
+  {
+    "id": "211",
+    "short_hand": "SAP",
+    "expanded_form": "Systemanalyse und Programmentwicklung",
+    "description": "SAP stands for Systemanalyse und Programmentwicklung (System Analysis and Program Development). SEEK uses SAP to manage it's customer's data (CRM), finance (R3/ERP) and reporting information (BW). SAP was implemented in 2007 under the BOOST project."
+  },
+  {
+    "id": "212",
+    "short_hand": "SAT/SAT",
+    "expanded_form": null,
+    "description": "SAT/SAT is a segment of our market which includes lower skilled roles with a high number of people applying for them (e.g. cleaners, waiter/waitresses, office workers). See What is Max/Max & Sat/Sat?"
+  },
+  {
+    "id": "213",
+    "short_hand": "Saved Search",
+    "expanded_form": null,
+    "description": "Jobseekers can save their frequent job searches to the SEEK homepage, when they are logged in"
+  },
+  {
+    "id": "214",
+    "short_hand": "SBS",
+    "expanded_form": "Search by Salary",
+    "description": "Search by Salary project"
+  },
+  {
+    "id": "215",
+    "short_hand": "SCALA",
+    "expanded_form": null,
+    "description": "A multi- paradigm language that runs on the JVM, it's a functional first, OO second similar to F#, a great language to transition to from Java or C# - used by some well-known companies such has Twitter or LinkedIn"
+  },
+  {
+    "id": "216",
+    "short_hand": "SCM",
+    "expanded_form": "Software Configuration Management",
+    "description": "Software Configuration Management is a team within IT. The Primary role of SCM is to facilitate the speedy movement of completed packages of software to Production in a consistent and reliable manner. See @SCM - Software Configuration Management."
+  },
+  {
+    "id": "217",
+    "short_hand": "SCOM",
+    "expanded_form": "SEEK Commercial",
+    "description": "Part of the SEEK family and is a marketplace for businesses and franchises for sale across Australia. See http://www.seekcommercial.com.au"
+  },
+  {
+    "id": "218",
+    "short_hand": "Screen",
+    "expanded_form": null,
+    "description": "Part of the Job Apply process. It was created in 1999 to allow advertisers to screen job applicants via a number of questions e.g. Do you have a driver’s license?. The Screen page is the first page that displays after the jobseeker clicks Apply. The purchase of Screen is optional. See How to add a common question to screen"
+  },
+  {
+    "id": "219",
+    "short_hand": "SDLC",
+    "expanded_form": "Software Development Lifecycle",
+    "description": "The old SEEK SDLC can be found here: http://teams/IT/Shared%20Documents/IT%20Processes/SDLC. In 2012 this was superseded by the Agile software development life cycle."
+  },
+  {
+    "id": "220",
+    "short_hand": "Search Area",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term defined as the area/s selected in job searches"
+  },
+  {
+    "id": "221",
+    "short_hand": "Search Classification",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term defined as the classification/s selected in job searches"
+  },
+  {
+    "id": "222",
+    "short_hand": "Search From",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term defined as the date range/s selected in job searches"
+  },
+  {
+    "id": "223",
+    "short_hand": "Search Location",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term defined as the location/s selected in job searches."
+  },
+  {
+    "id": "224",
+    "short_hand": "Search Specialisaion",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term defined as the specialisation/s selected in job searches."
+  },
+  {
+    "id": "225",
+    "short_hand": "Search Sub Classification",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term defined as the sub-classification/s selected in job searches."
+  },
+  {
+    "id": "226",
+    "short_hand": "Search Terms",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term defined as the keyword/s used in keyword searches."
+  },
+  {
+    "id": "227",
+    "short_hand": "Search Work Type",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term defined as Worktype/s selected in job searches."
+  },
+  {
+    "id": "228",
+    "short_hand": "SEEK",
+    "expanded_form": null,
+    "description": "SEEK the company. Always in uppercase. If using it as a noun (for example the company), use SEEK.  If you are using it as a verb (for example What are you seeking?), then it is in lower case. The logo uses the word seek in lower case. For more information about SEEK branding refer to the SEEK Brand Guidelines"
+  },
+  {
+    "id": "229",
+    "short_hand": "Seek Blue",
+    "expanded_form": null,
+    "description": "SEEK’s main website www.seek.com.au. Also SEEK Main"
+  },
+  {
+    "id": "230",
+    "short_hand": "Seek Executive",
+    "expanded_form": null,
+    "description": "SEEK Executive was a separate area of the SEEK network of websites which was aimed at senior and professional employees seeking roles that paid over $100K. SEEK Executive featured StandOut ads for free. SEEK Executive website was retired on 1st October 2011. For more information see The specified item was not found."
+  },
+  {
+    "id": "231",
+    "short_hand": "Seek Facelift",
+    "expanded_form": null,
+    "description": "On 13 June the SEEK website was updated to make the site more modern and visually appealing. SEEK Facelift changed the tools on the search results to make them more prominent and changed icons and labels inline with the mobile app and website."
+  },
+  {
+    "id": "232",
+    "short_hand": "Seek Main",
+    "expanded_form": null,
+    "description": "SEEK’s main website www.seek.com.au"
+  },
+  {
+    "id": "233",
+    "short_hand": "Seek Native",
+    "expanded_form": null,
+    "description": "The standard application process on SEEK. using the SEEK application form -  a candidates details are emailed directly to the hirer. See also LinkOut "
+  },
+  {
+    "id": "234",
+    "short_hand": "Seek Toolbar",
+    "expanded_form": null,
+    "description": "SEEK had an Internet Explorer toolbar that could be downloaded from the website. It allowed you to search for jobs straight from the web browser. The link to download this toolbar was removed from the site in October 2009."
+  },
+  {
+    "id": "235",
+    "short_hand": "Seekweb",
+    "expanded_form": null,
+    "description": "Usually refers to SEEK’s main database, sometimes refers to the online component of SEEK’s business"
+  },
+  {
+    "id": "236",
+    "short_hand": "SEI",
+    "expanded_form": "SEEK Employment Index",
+    "description": "The SEEK Employment Index (now known as the SEEK Employment Report) represents the relationship between demand for workers and jobseeker activity. When the Index increases, it demonstrates a 'tightening' employment market; where advertisers find it harder to fill roles (i.e. demand outweighs supply). This is favourable for jobseekers, as job opportunities are greater and competition between applicants is reduced. Inversely, as the Index falls, it demonstrates a 'softening' employment market (i.e.supply outweighs demand) and advertisers find it easier to fill roles. In this instance, jobseekers need tocompete for the available jobs. It was developed in consultation with Victoria University's Centre of Strategic Economic Studies. See - SEEK - SEEK Employment Report"
+  },
+  {
+    "id": "237",
+    "short_hand": "SEK 1,2 or 3",
+    "expanded_form": null,
+    "description": "SEEKs customers are classified as SEKSEK2 or SEK3 customers. SEK1 are SME Customers SEK2 are generally large subscription and pack customers and are fully maintained by the Credit Controllers SEK3 are small to medium subscription and pack customers"
+  },
+  {
+    "id": "240",
+    "short_hand": "Session",
+    "expanded_form": null,
+    "description": "(Nielsen/NetRatings site metrics term.) A session occurs when a visitor comes to and navigates around your web site. A session may consist of single or multiple page views. The visit persists until 30 minutes of inactivity or 12 hours of continuous activity."
+  },
+  {
+    "id": "241",
+    "short_hand": "SIM",
+    "expanded_form": "SEEK Inventory Management ",
+    "description": "SEEK Inventory Management (See IM)"
+  },
+  {
+    "id": "242",
+    "short_hand": "Single-Page Visit",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term that shows you the pages of your web site that visitors enter and exit without taking steps to view any other pages on your web site. The data listed in this report identifies the number of your site's Single-page Visits and where your visitors enter and exit without viewing additional content."
+  },
+  {
+    "id": "243",
+    "short_hand": "SITA",
+    "expanded_form": "Sign In To Apply",
+    "description": "Ensuring Candidates sign in when they apply for a job."
+  },
+  {
+    "id": "244",
+    "short_hand": "Site Searches",
+    "expanded_form": null,
+    "description": "(An Omniture site metrics term.) The number  of job search results pages viewed in a given reporting timeframe. Is not reflective of the unique search instances."
+  },
+  {
+    "id": "245",
+    "short_hand": "SKJ",
+    "expanded_form": "SEEK Jobs",
+    "description": "SEEK jobs.  Usually used in conjunction with SKL (Seek Learning)."
+  },
+  {
+    "id": "246",
+    "short_hand": "SKL",
+    "expanded_form": "Seek Learning",
+    "description": "www.seek.com.au/learning"
+  },
+  {
+    "id": "247",
+    "short_hand": "SKU",
+    "expanded_form": null,
+    "description": "SKU is an internal front-end development toolkit, powered by Webpack, Babel, CSS Modules, Less, ESLint, Prettier, Jest and Storybook. Quickly get up and running with a zero-config development environment, or optionally add minimal config when needed.  Github repo here: https://github.com/seek-oss/sku"
+  },
+  {
+    "id": "248",
+    "short_hand": "Small Change",
+    "expanded_form": null,
+    "description": "SEEK's charity giving program that is matched dollar for dollar by SEEK."
+  },
+  {
+    "id": "249",
+    "short_hand": "SMART",
+    "expanded_form": "SEEK Manager Replacement Tool",
+    "description": "SEEK Manager Replacement Tool – SMART pages were created to replace Seek Manager functionality that SAP couldn't support. e.g. If we need to modify a job ad we use SMART pages as SAP doesn’t store all information about a job ad."
+  },
+  {
+    "id": "250",
+    "short_hand": "SmartSearch",
+    "expanded_form": null,
+    "description": "A search algorithm previously named Hobbit."
+  },
+  {
+    "id": "251",
+    "short_hand": "SME",
+    "expanded_form": "Small and medium enterprises",
+    "description": "e.g. A small accountancy firm with 3 employees Also : Subject Matter Expert – a person who is an expert in a particular area"
+  },
+  {
+    "id": "252",
+    "short_hand": "SO",
+    "expanded_form": "Sales Opportunity",
+    "description": "Small and Medium Enterprises e.g. A small accountancy firm with 3 employees"
+  },
+  {
+    "id": "253",
+    "short_hand": "SOA",
+    "expanded_form": "Service Oriented Architecture",
+    "description": "From wikipedia: Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network. The basic principles of service-oriented architecture are independent of vendors, products and technologies"
+  },
+  {
+    "id": "254",
+    "short_hand": "SOAP",
+    "expanded_form": "Simple Object Access Protocol;",
+    "description": "A communication protocol; is for communication between applications; is a format for sending messages; is designed to communicate via Internet; is platform independent; is language independent; is based on XML, is simple and extensible; allows you to get around firewalls and will be developed as a W3C standard. We use this with our Fastlane Plus"
+  },
+  {
+    "id": "255",
+    "short_hand": "SOL",
+    "expanded_form": "Swinburne Online ",
+    "description": "Swinburne Online. A joint venture between Swinburne University of Technology and SEEK. Established in it provides students with a Swinburne University degree, with programs delivered online via a collaborative and interactive learning community."
+  },
+  {
+    "id": "256",
+    "short_hand": "SQUID",
+    "expanded_form": "Screen Questionnaires Indirect",
+    "description": "SQUID - Screen Questionnaires Indirect is an Hirer stream project running in that is updating the Screen Questionnaire component that Advertisers can add to their job ads, to screen a potential candidate e.g. Do you have the right to work in Australia?   "
+  },
+  {
+    "id": "257",
+    "short_hand": "SSL",
+    "expanded_form": "Secure Sockets Layer",
+    "description": "Secure Sockets Layer is technology that provides secure encrypted communication over the Internet. See the http://www.verisign.com/ssl/ssl-information-center/how-ssl-security-works/index.html"
+  },
+  {
+    "id": "258",
+    "short_hand": "SSO",
+    "expanded_form": "Single Sign On",
+    "description": "A property of access control of multiple related, yet independent, software systems. With this property, a user logs in with a single ID and password to gain access to a connected system or accomplished using the Lightweight Directory Access Protocol (LDAP) and stored LDAP databases on (directory) servers"
+  },
+  {
+    "id": "259",
+    "short_hand": "Standout Ads",
+    "expanded_form": null,
+    "description": "Written as StandOut ads and also referred to as Enhanced Ads during the development phase.  They have 3 additional bullets and the ability to have a customer specific logo and has differential pricing between recruiter and non-recruiter advertisers. See StandOut Ad project 2007"
+  },
+  {
+    "id": "260",
+    "short_hand": "Stats Logger",
+    "expanded_form": null,
+    "description": "A service that records the list hits (when a job appears in search results) and detailed hits (when a job’s details are viewed).  These stats are used primarily on the advertiser centre pages and flow to BW’s APR (Ad Performance Report). See Stats Logger Investigation"
+  },
+  {
+    "id": "261",
+    "short_hand": "Stats Manager",
+    "expanded_form": null,
+    "description": "A service that collates and aggregates the output of Stats Logger and bulk inserts it into the SeekWeb database. See also Stats Logger Investigation"
+  },
+  {
+    "id": "262",
+    "short_hand": "Stemming",
+    "expanded_form": null,
+    "description": "The use of linguistic analysis to get to the root form of a word. Search engines that use stemming compare the root forms of the search terms to the documents in the database. See also Lemmatization"
+  },
+  {
+    "id": "263",
+    "short_hand": "Sub-Classification",
+    "expanded_form": null,
+    "description": "Each job ad has a Classification which is an industry (e.g. Accounting, IT) and a sub-classification or specialisation within an industry (e.g. Accounting > Accounts Payable, IT  > Architect). In our classifications went through a major update with the TAXI project."
+  },
+  {
+    "id": "264",
+    "short_hand": "SUK",
+    "expanded_form": "SEEK UK repositioning",
+    "description": "See http://wiki/mediawiki/index.php/SEEK_UK_Repositioning"
+  },
+  {
+    "id": "265",
+    "short_hand": "Talent",
+    "expanded_form": null,
+    "description": "Talent is the name of the new advertiser centre (2013) https://talent.seek.com.au . It is a product of the Pacman (Position And Candidate Management) project within the Hirer stream."
+  },
+  {
+    "id": "266",
+    "short_hand": "Time Spent On Page",
+    "expanded_form": null,
+    "description": "(also Average page duration) (An Omniture site metrics term. The Nielsen/NetRatings terms is Average page duration.) The amount of time (in minutes) that a visitor spends on a particular page on average.  It should be noted that the time spent on the final page of every visit is not capturable by Omniture To understand true time, refer Hitwise Average Visit Time reports."
+  },
+  {
+    "id": "267",
+    "short_hand": "Time Spent On Site",
+    "expanded_form": null,
+    "description": "(also Total time and Eyeball minutes) (An Omniture site metrics term. The Nielsen/NetRatings term is total time). The total amount of time (in minutes) that visitors spend on a site in a given reporting timeframe. The time spent on the final page of every visit is not capturable by Omniture. This is known internally as Eyeball minutes."
+  },
+  {
+    "id": "268",
+    "short_hand": "TOC",
+    "expanded_form": "Technical Operations Centre. Also Ops",
+    "description": "They are the guys that look after your pc, laptop and phone. If you have a problem or request about hardware/software then you contact TechOPS."
+  },
+  {
+    "id": "269",
+    "short_hand": "Total Sessions",
+    "expanded_form": null,
+    "description": "A Nielsen/NetRatings market intelligence measure. The total number of times UBs visit a site, having left for more than 30 minutes,  during the reporting reporting period. Equivalent to Average 'UB Frequency' times UBs. Also known as visits in other tools."
+  },
+  {
+    "id": "270",
+    "short_hand": "Total Time",
+    "expanded_form": null,
+    "description": "(also Time spent on site) (A Nielsen/NetRatings site metrics term. The Omniture term is Time spent on site). The total amount of time, reported in thousands of seconds, all UBs spent on site in the reporting period. This is calculated by multiplying Page Impressions (PI) by Average Page Duration (APD).  The time spent on the final page of every visit is not capturable by Nielsen. To understand true time, refer Hitwise Average Visit Time reports."
+  },
+  {
+    "id": "271",
+    "short_hand": "UAT",
+    "expanded_form": "User Acceptance Testing",
+    "description": "Testing performed by users to verify that the system works as planned"
+  },
+  {
+    "id": "272",
+    "short_hand": "UB Frequency",
+    "expanded_form": "Unique Browser Frequency",
+    "description": "A Nielsen/NetRatings site metrics term. The Omniture term is Return Frequency. The unique browser frequency metric represents the average number of times a Unique Browser returns to a site during the reporting period. This is calculated by dividing the total sessions by UBs."
+  },
+  {
+    "id": "273",
+    "short_hand": "UCC",
+    "expanded_form": "Unified Client Centre",
+    "description": "A project that merged our advertiser centres (SEEK, Campus, Exec) into one advertiser centre."
+  },
+  {
+    "id": "274",
+    "short_hand": "UDDI",
+    "expanded_form": "Universal Description, Discovery and Integration",
+    "description": "Is a directory for storing information about web services, is a directory of web service interfaces described by WSDL, communicates via SOAP and is built into the Microsoft .NET platform"
+  },
+  {
+    "id": "275",
+    "short_hand": "UI",
+    "expanded_form": "User Interface",
+    "description": "Also the Web Production Team team - the User Interface team that controls the content on the SEEK website"
+  },
+  {
+    "id": "276",
+    "short_hand": "Ultra SAT",
+    "expanded_form": null,
+    "description": "Those working in the high turnover, low skills, localised markets e.g. wait staff, bar staff, labourers, and retail assistants (SAT/SAT on the other hand, tends to apply to Office Workers)."
+  },
+  {
+    "id": "277",
+    "short_hand": "Unique Browsers",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. The Nielsen/NetRatings term is Unique Browsers. A visitor is a web browser (i.e. a computer's interface to the web) that accessed your web site.Unique visitors represent the number of unduplicated (counted only once) visitors to your website over the course of a specified time period. A unique visitor is determined with cookies. Unique Visitors are unique to the reporting period and cannot be summed across reporting periods or sites.Unique Visitors do not equal  'a person' as multiple people can access via the one PC/browser or  a person may use multiple browsers ( from home and work) or may delete cookies."
+  },
+  {
+    "id": "278",
+    "short_hand": "Unique Visitors",
+    "expanded_form": null,
+    "description": "An Omniture site metrics term. The Nielsen/NetRatings term is Unique Browsers. A visitor is a web browser (i.e. a computer's interface to the web) that accessed your web site.Unique visitors represent the number of unduplicated (counted only once) visitors to your website over the course of a specified time period. A unique visitor is determined with cookies. Unique Visitors are unique to the reporting period and cannot be summed across reporting periods or sites.Unique Visitors do not equal  'a person' as multiple people can access via the one PC/browser or  a person may use multiple browsers ( from home and work) or may delete cookies."
+  },
+  {
+    "id": "279",
+    "short_hand": "Upkeep",
+    "expanded_form": null,
+    "description": "Internal tool at seek used to compare how up to date teams SKU toolkits are. See SKU."
+  },
+  {
+    "id": "280",
+    "short_hand": "URI",
+    "expanded_form": "Uniform Resource Identifier",
+    "description": "A string of characters used to identify the name and/or location of a resource."
+  },
+  {
+    "id": "281",
+    "short_hand": "VB",
+    "expanded_form": "Visual Basic",
+    "description": "Another Microsoft language created to appease the lowest common denominator. You are free to mock and look down upon those who prefer this."
+  },
+  {
+    "id": "282",
+    "short_hand": "Visit Length",
+    "expanded_form": null,
+    "description": "See also Average time on Site"
+  },
+  {
+    "id": "283",
+    "short_hand": "Visits",
+    "expanded_form": null,
+    "description": "(Omniture site metrics term. The Nielsen/NetRatings term is Sessions.) A visit occurs when a visitor comes to and navigates around your web site. A visit may consist of single or multiple page views. The visit persists until 30 minutes of inactivity or 12 hours of continuous activity."
+  },
+  {
+    "id": "284",
+    "short_hand": "VM",
+    "expanded_form": "Virtual Machine",
+    "description": "Can refer to a fully virtualised machine, such as VMWare, where an entire OS can run inside another application. This is where we're heading with our servers. Alternatively it can refer to a separate programming language focused virtual machine such as the JVM or CLR. This where code from a high level language, such as C# or Java, is compiled into byte code that is then run by the virtual machine. The majority of the code we develop is written in C# and run on the CLR, but we have services such as CloudView that are written in Java and run on the JVM."
+  },
+  {
+    "id": "285",
+    "short_hand": "WAF",
+    "expanded_form": "Web Application Firewall.",
+    "description": "The WAF actively blocks people it detects as attacking the SEEK Employment website (as of August 2011). Refer to the Security team for more information."
+  },
+  {
+    "id": "286",
+    "short_hand": "Web Service",
+    "expanded_form": null,
+    "description": "From W3C, A Web service is a software application identified by a URI, whose interfaces and binding are capable of being defined, described and discovered by XML artifacts and supports direct interactions with other software applications using XML based messages via internet-based protocols"
+  },
+  {
+    "id": "287",
+    "short_hand": "WSDL",
+    "expanded_form": "Web Services Description Language",
+    "description": "Stands for Web Services Description Language, is written in XML, is an XML document, is used to describe Web services, is also used to locate Web services and is not yet a W3C standard."
+  },
+  {
+    "id": "288",
+    "short_hand": "WURFL",
+    "expanded_form": "Wireless Universal Resource File",
+    "description": "Pronounced Whirr-full. It's the replacement for the Mobile Device Browser File (MDBF) that extended ASP.NET's built-in mechanism for exposing metadata about a mobile device's capabilities. http://wurfl.sourceforge.net/Some kind souls have thrown together a .NET API to wrap it, and that's what we've now put into the JobSeeker site. We have the source code and so can theoretically make additional changes.  One change that was made by Support was so that we can use relative instead of absolute paths inside the WURFL.xml.config file when referring to the path of the WURFL xml data file, and the path of the patch file"
+  },
+  {
+    "id": "289",
+    "short_hand": "XCAJA",
+    "expanded_form": "Express Caja",
+    "description": "Express CAJA is a cut down mobile-only version of the Create a Job ad process on the SEEK Talent website. This product launched in Oct to SME Direct Hirers who are new to SEEK. See Caja and Express Caja"
+  },
+  {
+    "id": "290",
+    "short_hand": "XXE",
+    "expanded_form": "XML External Entity",
+    "description": "A type of attack against an application that parses xml input. This attack occurs when xml contains a reference to an external entity. It is processed by a weakly configured xml parsed."
+  },
+  {
+    "id": "291",
+    "short_hand": "Zone",
+    "expanded_form": null,
+    "description": "A SEEK website can be divided into separate partitions called Zones. E.g. The Australian SEEK website used to be divided into SEEK, SEEK Executive and SEEK IT zones. Similarly, the New Zealand SEEK website was once divided into SEEK and SEEK IT zones."
+  },
+  {
+    "id": "309",
+    "short_hand": "ITO",
+    "expanded_form": null,
+    "description": "thing"
+  },
+  {
+    "id": "314",
+    "short_hand": "SRP",
+    "expanded_form": "Search Results Page",
+    "description": "The page that users land on after clicking the search button on seek.com.au"
+  },
+  {
+    "id": "315",
+    "short_hand": "CDN",
+    "expanded_form": "Content Delivery Network",
+    "description": "A system of distributed servers that deliver web content to users"
+  },
+  {
+    "id": "317",
+    "short_hand": "AB",
+    "expanded_form": "Andrew Bassat",
+    "description": "Andrew Bassat, CEO of SEEK"
+  }
+]
