@@ -12,7 +12,8 @@
   "dependencies": {
     "aws-sdk": "^2.437.0",
     "axios": "^0.18.0",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
